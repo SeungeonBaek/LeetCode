@@ -1,2 +1,2 @@
 # LeetCode
-repository for practicing problems of LeetCode
+Repository for practicing problems of LeetCode with python
